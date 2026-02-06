@@ -20,7 +20,7 @@ performance/
 ### ▶️ How to run from terminal
 Make sure `k6` is installed, then run:
 ss
-```mkdir -p target```
+```mkdir -p report```
 ```k6 run performance/create-user.k6.js```
 
 ### Extensibility
